@@ -131,6 +131,7 @@ img{
 
     .card--description{
         padding: 4rem;
+        padding-top: 2rem;
     }
 
     .description--title{
