@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge. This challenge was crea
 
 ## Live Site 💻
 
-<a href="">Click here</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0dece0da-b723-45e5-ae76-baeaa92d2921/deploy-status)](https://app.netlify.com/sites/productpreviewcardmbd/deploys)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
